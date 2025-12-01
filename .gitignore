@@ -4,6 +4,9 @@ venv/
 __pycache__/
 *.pyc
 
+# Streamlit secrets (never commit!)
+.streamlit/secrets.toml
+
 # IDE
 .vscode/
 .idea/

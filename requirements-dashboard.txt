@@ -1,0 +1,5 @@
+# Dashboard-only requirements (for Streamlit Cloud)
+streamlit==1.29.0
+pandas==2.1.0
+supabase==2.10.0
+python-dotenv==1.0.0
